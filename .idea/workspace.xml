@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.36550632" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="415dfa21-c519-44c6-a9e1-e67439d57d03" name="Default Changelist" comment="Adding decryption to Caesar Cipher">
+      <change beforePath="$PROJECT_DIR$/../Java_Ping_Pong_StarterCode" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Ping_Pong_StarterCode" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hPHPCYFrknHNZQvL2MRX7ATNu1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Decrypted">
+    <configuration name="Decrypted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decrypted" />
+      <module name="Java-IP.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CipherChoiceTest.runCipherChoice_countUpToOne_ArrayList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CipherChoiceTest.runCipherChoice_countUpToOne_ArrayList&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CipherTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CipherTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DecryptionTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DecryptionTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="cipherChoiceTest.runcipherChoice_countUpToOne_ArrayList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cipherChoiceTest.runcipherChoice_countUpToOne_ArrayList&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DecryptionTest" />
+        <item itemvalue="Application.Decrypted" />
+        <item itemvalue="Gradle.CipherChoiceTest.runCipherChoice_countUpToOne_ArrayList" />
+        <item itemvalue="Gradle.CipherTest" />
+        <item itemvalue="Gradle.cipherChoiceTest.runcipherChoice_countUpToOne_ArrayList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="415dfa21-c519-44c6-a9e1-e67439d57d03" name="Default Changelist" comment="" />
+      <created>1599905785750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599905785750</updated>
+      <workItem from="1599905791400" duration="9710000" />
+      <workItem from="1600077622536" duration="843000" />
+      <workItem from="1600080660741" duration="11306000" />
+      <workItem from="1600109476095" duration="1382000" />
+      <workItem from="1600156178237" duration="4333000" />
+      <workItem from="1600192722260" duration="3091000" />
+      <workItem from="1600249815455" duration="1318000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initializing Caesar Cipher">
+      <created>1599911701310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599911701310</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding test file to Caesar Cipher">
+      <created>1600082272109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600082272110</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding decryption to Caesar Cipher">
+      <created>1600159116845</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600159116846</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding decryption to Caesar Cipher">
+      <created>1600250859285</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600250859285</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initializing Caesar Cipher" />
+    <MESSAGE value="Adding test file to Caesar Cipher" />
+    <MESSAGE value="Adding decryption to Caesar Cipher" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding decryption to Caesar Cipher" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="66" key="#Inspections" timestamp="1599911516725">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="624" y="66" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1599911516725" />
+    <state x="558" y="41" width="808" height="727" key="#Intentions" timestamp="1600081277659">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="558" y="41" width="808" height="727" key="#Intentions/0.0.1366.768@0.0.1366.768" timestamp="1600081277659" />
+    <state x="317" y="0" key="#Project_Structure" timestamp="1599905945980">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="317" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1599905945980" />
+    <state x="667" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1600158428440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="667" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1600158428440" />
+    <state x="725" y="215" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600081936570">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="725" y="215" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1600081936570" />
+    <state x="778" y="143" key="FileChooserDialogImpl" timestamp="1600111516805">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="778" y="143" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600111516805" />
+    <state width="688" height="588" key="GridCell.Tab.0.bottom" timestamp="1600250520375">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="588" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600250520375" />
+    <state width="688" height="588" key="GridCell.Tab.0.center" timestamp="1600250520374">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="588" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600250520374" />
+    <state width="688" height="588" key="GridCell.Tab.0.left" timestamp="1600250520374">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="588" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600250520374" />
+    <state width="688" height="588" key="GridCell.Tab.0.right" timestamp="1600250520374">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="588" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600250520374" />
+    <state width="688" height="230" key="GridCell.Tab.1.bottom" timestamp="1600156582088">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="230" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600156582088" />
+    <state width="688" height="230" key="GridCell.Tab.1.center" timestamp="1600156582087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="230" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1600156582087" />
+    <state width="688" height="230" key="GridCell.Tab.1.left" timestamp="1600156582087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="230" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1600156582087" />
+    <state width="688" height="230" key="GridCell.Tab.1.right" timestamp="1600156582088">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="688" height="230" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1600156582088" />
+    <state x="805" y="87" key="RollbackChangesDialog" timestamp="1600251120822">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="805" y="87" key="RollbackChangesDialog/0.0.1366.768@0.0.1366.768" timestamp="1600251120822" />
+    <state x="368" y="80" key="Vcs.Push.Dialog.v2" timestamp="1600250861789">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="368" y="80" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600250861789" />
+    <state x="755" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600082175061">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="755" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1600082175061" />
+    <state x="719" y="190" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600082382134">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="719" y="190" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1600082382134" />
+    <state x="556" y="0" key="new project wizard" timestamp="1600078601044">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="556" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1600078601044" />
+    <state x="680" y="131" key="refactoring.ChangeSignatureDialog" timestamp="1600084757812">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="680" y="131" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1600084757812" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_IP$cipherChoiceTest_runcipherChoice_countUpToOne_ArrayList.ic" NAME="cipherChoiceTest.runcipherChoice_countUpToOne_ArrayList Coverage Results" MODIFIED="1600157423883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
